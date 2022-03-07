@@ -1,0 +1,36 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "graphql",
+    "html",
+    "yaml",
+    "json",
+    "python"
+  ],
+  "coc.preferences.noselect": false,
+  // html config
+  "html.autoClosingTags": true,
+  // python config
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "snippets.ultisnips.directories": [
+    "UltiSnips",
+    "~/.config/nvim/utils/snips"
+  ],
+  // explorer
+  "explorer.width": 30,
+  //  "explorer.icon.enableNerdfont": true,
+  "explorer.previewAction.onHover": false,
+  "explorer.file.showHiddenFiles": true,
+  "explorer.keyMappings": {
+    "<cr>": [
+      "expandable?",
+      "expand",
+      "open"
+    ],
+    "v": "open:vsplit"
+  },
+  "list.source.tags.command": "ctags -R --exclude=.git --exclude=venv --exclude=node_modules ."
+}

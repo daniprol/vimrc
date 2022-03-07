@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/dani/anaconda3/envs/algo-trading/lib/python3.5/site-packages/scipy/optimize'
+let g:netrw_dirhist_3='/home/dani/.config/nvim'
+let g:netrw_dirhist_2='/home/dani/.config/nvim/keys'
+let g:netrw_dirhist_1='/home/dani/.config/nvim/general'
+let g:netrw_dirhist_0='/home/dani/.config/nvim'
+let g:netrw_dirhist_9='/home/dani/Projects/ITMATI/EMSGRID/spm_kf'
+let g:netrw_dirhist_8='/home/dani/Projects/ITMATI/EMSGRID/PoC_CapFirming'
+let g:netrw_dirhist_7='/home/dani/Projects/ITMATI/data_downloader'
+let g:netrw_dirhist_6='/home/dani/Projects/ITMATI/EMSGRID/PoC_CapFirming/capacity_firming'
+let g:netrw_dirhist_5='/home/dani/Projects/python/algo-trading/rsi-algo'
